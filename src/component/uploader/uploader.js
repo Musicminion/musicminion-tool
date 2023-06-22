@@ -46,7 +46,7 @@ const Uploader = () => {
             link.href = URL.createObjectURL(content);
             // 根据时间戳生成文件名
             // downloadFileName =
-            link.download = "result-" + new Date().getTime().toLocaleString() + '.zip';
+            link.download = "result-" + new Date().getTime().toString() + '.zip';
 
             // 将链接添加到页面中并模拟点击
             document.body.appendChild(link);
