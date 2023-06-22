@@ -3,7 +3,7 @@ import ImageLocalization from "./page/image-localization/image-localization";
 
 function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Routes>
                 <Route path="/" element={<ImageLocalization/>}/>
             </Routes>
