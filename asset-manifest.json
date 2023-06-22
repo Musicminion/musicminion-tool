@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/musicminion-tool/static/css/main.e6c13ad2.css",
-    "main.js": "/musicminion-tool/static/js/main.52c76c33.js",
+    "main.js": "/musicminion-tool/static/js/main.c9b223b7.js",
     "static/js/787.7803c197.chunk.js": "/musicminion-tool/static/js/787.7803c197.chunk.js",
     "index.html": "/musicminion-tool/index.html",
     "main.e6c13ad2.css.map": "/musicminion-tool/static/css/main.e6c13ad2.css.map",
-    "main.52c76c33.js.map": "/musicminion-tool/static/js/main.52c76c33.js.map",
+    "main.c9b223b7.js.map": "/musicminion-tool/static/js/main.c9b223b7.js.map",
     "787.7803c197.chunk.js.map": "/musicminion-tool/static/js/787.7803c197.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.52c76c33.js"
+    "static/js/main.c9b223b7.js"
   ]
 }
